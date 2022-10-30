@@ -5,4 +5,4 @@ App to demonstrate use of accelerometer, gyroscope, magnetometer and GPS.
 
 # How to Use:
 - clone repository
-- run 'flutter pub get' in terminal
+- run `flutter pub get` in terminal
